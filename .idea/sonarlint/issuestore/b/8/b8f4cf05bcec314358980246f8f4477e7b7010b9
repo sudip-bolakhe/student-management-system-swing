@@ -1,0 +1,32 @@
+
+‡"squid:ClassVariableVisibilityCheck)"TMake UserName a static final constant or non-public and provide accessors if needed.(ÔŒäşÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck*"WMake UserAddress a static final constant or non-public and provide accessors if needed.(ÒÇöÚúÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck+"UMake UserEmail a static final constant or non-public and provide accessors if needed.(ÇÔì†úÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck,"UMake UserPhone a static final constant or non-public and provide accessors if needed.(™öĞšşÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck-"XMake UserPassword a static final constant or non-public and provide accessors if needed.(¹ş™
+ˆ"squid:ClassVariableVisibilityCheck."UMake rdbtnMale a static final constant or non-public and provide accessors if needed.(‰óİ¸ùÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck/"WMake rdbtnFemale a static final constant or non-public and provide accessors if needed.(íºÓÎúÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck0"WMake UserCountry a static final constant or non-public and provide accessors if needed.(‘©®Àûÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck1"SMake UserDob a static final constant or non-public and provide accessors if needed.(ÏÒÂ½ıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck2"QMake idLbl a static final constant or non-public and provide accessors if needed.(î®úç
+‚"squid:ClassVariableVisibilityCheck3"TMake picLabel a static final constant or non-public and provide accessors if needed.(Ìñåª
+"squid:ClassVariableVisibilityCheck4"TMake imageUrl a static final constant or non-public and provide accessors if needed.(©³¯#
+@squid:S1604¸"(Make this anonymous inner class a lambda(‰ÉŸ
+Esquid:S1604ã"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ
+psquid:S00116)"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔŒäşÿÿÿÿ
+ssquid:S00116*"VRename this field "UserAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÇöÚúÿÿÿÿ
+qsquid:S00116+"TRename this field "UserEmail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÔì†úÿÿÿÿ
+qsquid:S00116,"TRename this field "UserPhone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™öĞšşÿÿÿÿ
+osquid:S00116-"WRename this field "UserPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ş™
+ssquid:S001160"VRename this field "UserCountry" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘©®Àûÿÿÿÿ
+osquid:S001161"RRename this field "UserDob" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÒÂ½ıÿÿÿÿ
+isquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ŞÙ
+nsquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÃÎüÿÿÿÿ
+nsquid:S00117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇõùûÿÿÿÿ
+hsquid:S00117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÅ£K
+nsquid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ıûÂüÿÿÿÿ
+nsquid:S00117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤»¥Áüÿÿÿÿ
+jsquid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òîğ
+Vsquid:UselessImportCheck"2Remove this unused import 'java.awt.BorderLayout'.(íÿì°
+Tsquid:UselessImportCheck"0Remove this unused import 'java.awt.EventQueue'.(ùÅØæ
+@squid:S1148Í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
